@@ -1,10 +1,32 @@
 # iOS Workshops, Fall 2017
 
-**PRO TIP:** There's a shorter URL to get to this repo -> [txcsmad.com/go/iOS](http://txcsmad.com/go/iOS) 
+## About
 
-## Course Info
+### Resources
 
-TBD
+* [App Development with Swift](https://itunes.apple.com/us/book/app-development-with-swift/id1219117996?mt=11)
+
+### Requirements
+
+* A Mac (or a computer running macOS \*wink wink nudge nudge\*)
+
+### Non-requirements
+
+* An iOS device
+* Prior experience
+
+### Schedule
+
+|Day|Time|Location|
+|---|---|---|
+|Wednesdays|6:30 PM to 8:30 PM|GDC 4.302|
+
+#### Schedule Exceptions
+
+|Day|Time|Location|
+|---|---|---|
+|9/13|4:30 PM to 6:00 PM|GDC 5.302|
+|11/1|7:00 PM to 8:30 PM|GDC 6.202|
 
 ## Instructors
 
